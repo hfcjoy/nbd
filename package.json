@@ -1,0 +1,24 @@
+{
+  "name": "@hfcjoy/nbd",
+  "version": "1.0.0",
+  "description": "捆绑Node.js项目所有依赖到单个文件",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfcjoy/nbd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfcjoy/nbd/issues"
+  },
+  "homepage": "https://github.com/hfcjoy/nbd#readme"
+}
